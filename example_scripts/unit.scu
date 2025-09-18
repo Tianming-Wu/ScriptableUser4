@@ -1,0 +1,23 @@
+// loadplugin windowsapi
+// loadplugin maths
+
+println Script Path: ${SCRIPT_FILE}
+
+findwindow Notepad "ÎÞ±êÌâ - Notepad" -> hwnd
+
+iswindow hwnd -> res
+println ${res}
+
+println HWND: 0x${hwnd:f[{:06x},uintptr_t]}
+
+showwindowtitle hwnd
+
+getwindowrect hwnd -> rect
+
+print ${rect}
+
+// if (var) (println hello1) (println hello2)
+
+exit
+
+println You shouldn't see this.

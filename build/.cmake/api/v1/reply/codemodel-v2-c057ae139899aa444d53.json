@@ -1,0 +1,408 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ScriptableUser4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-9c5d05d7f6bb15188814.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-2e4feb362cf0e8213df8.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gdi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gdi-Debug-eeb6d250570bda55364e.json",
+					"name" : "gdi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maths::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maths-Debug-674d6378006620e9602f.json",
+					"name" : "maths",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scapi-Debug-dfac048a28d6978b731b.json",
+					"name" : "scapi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scuser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scuser-Debug-8561d7d1aab762a6bedb.json",
+					"name" : "scuser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "windowsapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-windowsapi-Debug-9b2ccfbe4142782bc73e.json",
+					"name" : "windowsapi",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ScriptableUser4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-9c5d05d7f6bb15188814.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-2e4feb362cf0e8213df8.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gdi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gdi-Release-f30e395dd9d1f1270fd1.json",
+					"name" : "gdi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maths::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maths-Release-19321a1e505f113005ec.json",
+					"name" : "maths",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scapi-Release-875e4493b4196f2a3cff.json",
+					"name" : "scapi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scuser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scuser-Release-b2045172034fe9655f3f.json",
+					"name" : "scuser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "windowsapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-windowsapi-Release-89d8c745c3ed970e7a1d.json",
+					"name" : "windowsapi",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ScriptableUser4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-9c5d05d7f6bb15188814.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-2e4feb362cf0e8213df8.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gdi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gdi-MinSizeRel-bfba2c854288a333e983.json",
+					"name" : "gdi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maths::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maths-MinSizeRel-f28d8133c3d5aca22e25.json",
+					"name" : "maths",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scapi-MinSizeRel-829b483dea556dae616b.json",
+					"name" : "scapi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scuser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scuser-MinSizeRel-4de2b5940623d0cf0487.json",
+					"name" : "scuser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "windowsapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-windowsapi-MinSizeRel-42cbb1b4e47cd997497f.json",
+					"name" : "windowsapi",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ScriptableUser4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-9c5d05d7f6bb15188814.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-2e4feb362cf0e8213df8.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gdi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gdi-RelWithDebInfo-7b23493ae546f9572d57.json",
+					"name" : "gdi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "maths::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maths-RelWithDebInfo-8d719d87fecce4b11a94.json",
+					"name" : "maths",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scapi-RelWithDebInfo-3c2e388358c0a6ce92f1.json",
+					"name" : "scapi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scuser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scuser-RelWithDebInfo-59570fe1eeb56f92d536.json",
+					"name" : "scuser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "windowsapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-windowsapi-RelWithDebInfo-6a70838afa158ef148a3.json",
+					"name" : "windowsapi",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Dev/Cpp/ScriptableUser4/build",
+		"source" : "D:/Dev/Cpp/ScriptableUser4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

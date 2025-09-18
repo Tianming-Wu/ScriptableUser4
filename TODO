@@ -1,0 +1,19 @@
+[ ] Complete String Escape/Unescape `scuser::unescape_string`
+
+[ ] Complete Math Operation on variables\
+    1. (Simple solution) add `var add`, `var substract`, `var minus`, etc
+    2. Support complex calc syntax parsing
+
+[V] Dynamic Import of modules
+
+
+[V] """
+    Design better result store grammer.
+
+    for example, -> var_name
+"""
+
+
+[V] **IMPORTANT:**: Fix formatting function
+
+[ ] **IMPORTANT:** make type restricted: sign the type automatically in meta_store, to make the type restricted.

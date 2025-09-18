@@ -1,0 +1,26 @@
+// This is a comment.
+// Inline and multiline comment is not supported,
+// like "command param // comment"
+// or /*dfs*/
+
+// This is a tag. Get here by using jump or goto.
+:etag
+
+// goto etag
+
+// This command finds a notpad window.
+findwindow Notepad "无标题 - Notepad"
+
+// This is an example for formatting variables.
+println 0x${hwnd:f[{:06x},uintptr_t]}
+
+// Creating and using variables
+
+var set me "Author: Tianming"
+println ${me}
+
+var set you "Nothing"
+println ${me}, ${you}
+
+var swap me you
+println ${me}, ${you}

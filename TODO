@@ -17,3 +17,5 @@
 [V] **IMPORTANT:**: Fix formatting function
 
 [ ] **IMPORTANT:** make type restricted: sign the type automatically in meta_store, to make the type restricted.
+
+[ ] **IMPORTANT:** the type system is unusable currently.

@@ -1,7 +1,0 @@
-D:/Dev/Cpp/ScriptableUser4/build/CMakeFiles/scapi.dir
-D:/Dev/Cpp/ScriptableUser4/build/CMakeFiles/scuser.dir
-D:/Dev/Cpp/ScriptableUser4/build/CMakeFiles/windowsapi.dir
-D:/Dev/Cpp/ScriptableUser4/build/CMakeFiles/maths.dir
-D:/Dev/Cpp/ScriptableUser4/build/CMakeFiles/gdi.dir
-D:/Dev/Cpp/ScriptableUser4/build/CMakeFiles/ALL_BUILD.dir
-D:/Dev/Cpp/ScriptableUser4/build/CMakeFiles/ZERO_CHECK.dir

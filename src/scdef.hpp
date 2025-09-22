@@ -1,6 +1,6 @@
 #pragma once
 
-#define ScPluginApiVersion 8
+#define ScPluginApiVersion 9
 
 
 // simplify code

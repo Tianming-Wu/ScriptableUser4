@@ -19,5 +19,6 @@ struct pluginInfo {
 
 #ifndef SCPLUGIN_DEFUALT_API
 extern "C" __declspec(dllexport) int scPluginApiVersion() { return ScPluginApiVersion; }
+extern "C" __declspec(dllexport) std::function<sctype&()> getTypeSystem(std::function<sctype&()> _del) { static std::function<sctype&()> del = _del; return del; }
 #define SCPLUGIN_DEFAULT_API
 #endif
